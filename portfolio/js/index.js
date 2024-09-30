@@ -6,7 +6,7 @@ dayNight.addEventListener("click", () => {
 });
 
 let typing = new Typed("#text", {
-  strings: ["patrick", "a Designer !", "an Artist !", "a Developer !"],
+  strings: ["patrick", "a Designer !", "an Artist !", "a lazy person !"],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true,
